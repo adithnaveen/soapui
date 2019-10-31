@@ -6,7 +6,7 @@ import jxl.write.*;
 
 
 ///97-2013 workbook xls 
-def xlsDataFile =new File("C:\\Users\\Naveen\\Desktop\\sample.xls");   
+def xlsDataFile =new File("C:\\Users\\Naveen\\Desktop\\soap-ui-project\\sample.xls");   
 
 log.info("File at location " + xlsDataFile); 
 
